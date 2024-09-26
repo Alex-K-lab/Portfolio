@@ -343,7 +343,7 @@ h3 {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1368px) {
 #firstgrid {
     display: inline-block;
     width: 100%;
